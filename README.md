@@ -38,8 +38,8 @@ User Story <br>
 
 
 ## Video
-Video of walk through of the API routes and walk through of  [Screencastify](https://drive.google.com/file/d/1MxOj6DhHKcWQ88Vf5KDqXEwlcMkqf4AJ/view)<br>
-Video of Insomnia testing walk through [Screencastify](https://drive.google.com/file/d/17ou_qQl7_dM0W_0n5Xy-nJ2PRtNkh2dL/view)
+Video of walk through of the API routes and walk through of create the schema from the MySQL shell: [Screencastify](https://drive.google.com/file/d/1MxOj6DhHKcWQ88Vf5KDqXEwlcMkqf4AJ/view) <br>
+Video of Insomnia testing walk through [Screencastify](https://drive.google.com/file/d/17ou_qQl7_dM0W_0n5Xy-nJ2PRtNkh2dL/view) <br>
 
 
 ## Contributing
